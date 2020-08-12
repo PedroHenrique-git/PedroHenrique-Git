@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**PedroHenrique-git/PedroHenrique-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Pedro Henrique, i am an junior developer. I have experience with php, mysql, html, css and javaScript. Aurrently, i am study React, C#, Node.js and 
 
 Here are some ideas to get you started:
 
