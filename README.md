@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  Hello, my name is Pedro Henrique, i am an junior developer. I have experience with php, mysql, html, css and javaScript. Aurrently, i am study React, C#, Node.js and 
+  Hello, my name is Pedro Henrique, i am a junior developer. I have experience with php, mysql, html, css and javaScript. Aurrently, i am study React, C#, Node.js and 
 </p>
 <!-- 
 
