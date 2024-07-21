@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <p align="left">
-  Hello, my name is Pedro Henrique, I am a developer. I have experience with php, mysql, html, css and javaScript. Currently, i am study React, php,   Node.js and
-  TypeScript
+  Hello my name is Pedro henrique and I am a developer, I have experience in development using the entire javascript stack (vanilla js, react, nextjs, nodejs, etc...).
+  <br/><br/>
+  I'm currently studying gcp (Google cloud platform), docker, kubernetes and java.
 </p>
 
 <hr />
