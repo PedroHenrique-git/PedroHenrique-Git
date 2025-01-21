@@ -3,7 +3,7 @@
 <p align="left">
   Hello my name is Pedro henrique and I am a developer, I have experience in development using the entire javascript stack (vanilla js, react, nextjs, nodejs, etc...).
   <br/><br/>
-  I'm currently studying gcp (Google cloud platform), docker, kubernetes and java.
+  I'm currently cloud computing, docker, kubernetes and java.
 </p>
 
 <hr />
